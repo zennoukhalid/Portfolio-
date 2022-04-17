@@ -17,8 +17,8 @@ router.post("/contact", (req, res) => {
     host: "smtp.mailgun.org",
     port: 587,
     auth: {
-      user: 'postmaster@sandbox1026e11f3e7441099d175973d8a62cdb.mailgun.org',
-      pass: '3764c85747ccee2705a1f22e43d7fb33-30b9cd6d-b491ff33',
+      user: 'postmaster*******.mailgun.org',
+      pass: '3764*****b491ff33',
       
     },
   });
